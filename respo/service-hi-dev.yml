@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: service-hi
+    name: service-hi222
   datasource:
     driverClassName: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/mmss?ServerTimeZone=HongKong&useUnicode=true&characterEncoding=utf-8
